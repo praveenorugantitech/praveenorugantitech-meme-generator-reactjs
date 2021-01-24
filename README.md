@@ -1,7 +1,8 @@
 # Meme Generator developed using React JS
- 
- ![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-projects/master/praveenorugantitech-meme-generator/src/images/screenshot.PNG "Meme Generator")
 
+ <div>
+ <img align="right" width="100%"  src="./src/images/screenshot.PNG" />
+</div>
 
 [Live Demo](https://praveen-meme-generator.firebaseapp.com/)
 
